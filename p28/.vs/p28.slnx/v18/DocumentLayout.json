@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\homework4\\p28\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D117A6BA-026B-4E3E-9AA9-20456030A062}|p28\\p28.vcxproj|C:\\homework4\\p28\\p28\\p28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D117A6BA-026B-4E3E-9AA9-20456030A062}|p28\\p28.vcxproj|solutionrelative:p28\\p28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p28.cpp",
+              "DocumentMoniker": "C:\\homework4\\p28\\p28\\p28.cpp",
+              "RelativeDocumentMoniker": "p28\\p28.cpp",
+              "ToolTip": "C:\\homework4\\p28\\p28\\p28.cpp",
+              "RelativeToolTip": "p28\\p28.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-19T09:27:45.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\homework4\\p04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B034840-9294-41A4-B5C4-3BDF89CBEE91}|p04\\p04.vcxproj|C:\\homework4\\p04\\p04\\p04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B034840-9294-41A4-B5C4-3BDF89CBEE91}|p04\\p04.vcxproj|solutionrelative:p04\\p04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p04.cpp",
+              "DocumentMoniker": "C:\\homework4\\p04\\p04\\p04.cpp",
+              "RelativeDocumentMoniker": "p04\\p04.cpp",
+              "ToolTip": "C:\\homework4\\p04\\p04\\p04.cpp*",
+              "RelativeToolTip": "p04\\p04.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-19T08:24:01.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
